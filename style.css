@@ -29,3 +29,8 @@ figcaption {
 p {
   text-align: center;
 }
+
+#featured-id < p {
+  width: 800px;
+}
+
